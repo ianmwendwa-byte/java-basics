@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InnerClasses",
+            "request": "launch",
+            "mainClass": "InnerClasses",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaPolymophism",
+            "request": "launch",
+            "mainClass": "JavaPolymophism",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch car",
+            "request": "launch",
+            "mainClass": "car",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaMethodOverloading",
+            "request": "launch",
+            "mainClass": "JavaMethodOverloading",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaMethods",
+            "request": "launch",
+            "mainClass": "JavaMethods",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoopInsideForLoop",
+            "request": "launch",
+            "mainClass": "ForLoopInsideForLoop",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultidimensionalArrays",
+            "request": "launch",
+            "mainClass": "MultidimensionalArrays",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Phone",
+            "request": "launch",
+            "mainClass": "Phone",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaArraysForEachLoop",
+            "request": "launch",
+            "mainClass": "javaArraysForEachLoop",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaArrays",
+            "request": "launch",
+            "mainClass": "JavaArrays",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaContinue",
+            "request": "launch",
+            "mainClass": "JavaContinue",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaBreak",
+            "request": "launch",
+            "mainClass": "JavaBreak",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEachLoop",
+            "request": "launch",
+            "mainClass": "ForEachLoop",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaWhileLoop",
+            "request": "launch",
+            "mainClass": "JavaWhileLoop",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaSwitch",
+            "request": "launch",
+            "mainClass": "JavaSwitch",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifElseTernaryOperator",
+            "request": "launch",
+            "mainClass": "ifElseTernaryOperator",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfStatement",
+            "request": "launch",
+            "mainClass": "IfStatement",
+            "projectName": "practice.java_1b687fb2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "practice.java_1b687fb2"
+        }
+    ]
+}
